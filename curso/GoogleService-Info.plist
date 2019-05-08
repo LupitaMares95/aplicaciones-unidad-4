@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>291244478579-vvtokld6glbkupulbgb538gsjl1apu4c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.291244478579-vvtokld6glbkupulbgb538gsjl1apu4c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCalEaQQVhnb5NClgRPpboJRQcpE9wYdZ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>291244478579</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dsoria.curso</string>
+	<key>PROJECT_ID</key>
+	<string>proyecto-18867</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proyecto-18867.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:291244478579:ios:e856630acda215a6</string>
+	<key>DATABASE_URL</key>
+	<string>https://proyecto-18867.firebaseio.com</string>
+</dict>
+</plist>
